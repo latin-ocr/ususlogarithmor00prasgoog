@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ususlogarithmor00prasgoog_0006.png"; bbox 0 0 4200 5384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 271 751 1647 946">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 271 751 1647 946">
+     <span class='ocr_line' id='line_1_1' title="bbox 271 751 1647 946; baseline 0.001 -35"><span class='ocrx_word' id='word_1_1' title='bbox 271 772 275 780; x_wconf 39' lang='lat'><strong>¹</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 373 751 1033 916; x_wconf 47' lang='lat' dir='ltr'>LooAmHMonu‘M</span> <span class='ocrx_word' id='word_1_3' title='bbox 1067 918 1071 927; x_wconf 74' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1103 763 1647 946; x_wconf 58' lang='grc' dir='ltr'>ῘΝΕιΝιτῃΝοΜιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 976 1117 1170 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 976 1117 1170 1201">
+     <span class='ocr_line' id='line_1_2' title="bbox 976 1117 1170 1201; baseline 0.01 -2"><span class='ocrx_word' id='word_1_5' title='bbox 976 1143 1040 1201; x_wconf 65' lang='grc' dir='ltr'>ιη</span> <span class='ocrx_word' id='word_1_6' title='bbox 1134 1117 1170 1200; x_wconf 58' lang='grc' dir='ltr'>ᾗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 142 1315 1871 1629">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 111 1296 1871 1629">
+     <span class='ocr_line' id='line_1_3' title="bbox 142 1315 1871 1629; baseline 0.009 -99.736"><span class='ocrx_word' id='word_1_7' title='bbox 142 1315 778 1550; x_wconf 69' lang='lat' dir='ltr'><strong>THEORiA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 854 1397 1871 1629; x_wconf 19' lang='lat' dir='ltr'><strong>AEQUAT&#39;LONUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2104 5384">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2104 5384">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2104 5384; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2104 5384; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
